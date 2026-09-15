@@ -1,0 +1,41 @@
+{
+  "raw_reviews": 154555,
+  "rating_distribution": {
+    "0": 6732,
+    "1": 4077,
+    "2": 9942,
+    "3": 28028,
+    "4": 47266,
+    "5": 58510
+  },
+  "invalid_dates": 0,
+  "deduplicated_reviews": 154555,
+  "positive_reviews": 105776,
+  "train_cutoff": "2016-08-18 03:59:08+00:00",
+  "test_cutoff": "2017-03-04 21:28:53.500000+00:00",
+  "users": 1267,
+  "items": 984,
+  "split": {
+    "train": {
+      "before_warm_filter": 12436,
+      "warm_interactions": 12436,
+      "unknown_users": 0,
+      "unknown_items": 0
+    },
+    "val": {
+      "before_warm_filter": 10578,
+      "warm_interactions": 427,
+      "unknown_users": 8919,
+      "unknown_items": 7137
+    },
+    "test": {
+      "before_warm_filter": 10578,
+      "warm_interactions": 230,
+      "unknown_users": 9290,
+      "unknown_items": 7843
+    }
+  },
+  "density": 0.009974910325267419,
+  "train_interactions": 12436,
+  "train_top_1pct_share": 0.06963653908009006
+}

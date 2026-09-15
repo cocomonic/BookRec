@@ -1,0 +1,12 @@
+{
+  "goodreads_reviews_poetry.json.gz": {
+    "url": "https://mcauleylab.ucsd.edu/public_datasets/gdrive/goodreads/byGenre/goodreads_reviews_poetry.json.gz",
+    "bytes": 49351677,
+    "sha256": "f0f1c8d403cb67328c801bde6ae5c54cccd937b80979fefb042def044df82b78"
+  },
+  "goodreads_books_poetry.json.gz": {
+    "url": "https://mcauleylab.ucsd.edu/public_datasets/gdrive/goodreads/byGenre/goodreads_books_poetry.json.gz",
+    "bytes": 27953355,
+    "sha256": "11a71d924f245323af8e0c16d9cc7b6beefb18cf155cb58434f8dc120febaaab"
+  }
+}

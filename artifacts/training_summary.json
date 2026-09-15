@@ -1,0 +1,30 @@
+{
+  "selected_epochs": {
+    "TwoTower": 8,
+    "TwoTower_no_positive_mask": 7,
+    "DeepFM": 6,
+    "FM_no_deep": 8
+  },
+  "seconds": {
+    "Popularity": 0.07187510000221664,
+    "ItemCF": 0.09815550000348594,
+    "TwoTower": 106.47698750000563,
+    "TwoTower_no_positive_mask": 3.165874399994209,
+    "DeepFM": 8.721100999995542,
+    "FM_no_deep": 6.970543200004613
+  },
+  "total_seconds": 186.79030620000412,
+  "candidate_recall@100": {
+    "val": 0.24840416175161936,
+    "test": 0.28122222222222226
+  },
+  "faiss_exact_set_overlap@20": 1.0,
+  "warm_pipeline_latency_ms": {
+    "p50": 0.7566000022052322,
+    "p95": 1.2563599993882226,
+    "queries": 200
+  },
+  "rank_train_samples": 62180,
+  "rank_val_samples": 42700,
+  "rank_test_samples": 23000
+}

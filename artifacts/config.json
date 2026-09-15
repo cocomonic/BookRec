@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "k_core": 5,
+  "positive_rating": 4,
+  "train_quantile": 0.8,
+  "val_quantile": 0.9,
+  "dim": 32,
+  "batch_size": 256,
+  "epochs": 12,
+  "rank_epochs": 8,
+  "lr": 0.003,
+  "weight_decay": 1e-05,
+  "temperature": 0.1,
+  "negatives": 4,
+  "eval_negatives": 99,
+  "candidate_k": 100,
+  "ks": [
+    10,
+    20
+  ],
+  "threads": 4
+}

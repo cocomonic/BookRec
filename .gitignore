@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/raw/
+data/processed/
+artifacts/*.pt
+artifacts/*.npy
+artifacts/*.npz
+artifacts/*.faiss
+artifacts/serving.json
+*.zip
